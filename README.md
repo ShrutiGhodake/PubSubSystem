@@ -75,3 +75,9 @@ To run the application locally:
 1. Subscribe
 ![Alt Text](https://github.com/ShrutiGhodake/PubSubSystem/blob/main/subscribe.jpg)
 
+2. Notify
+![Alt Text](https://github.com/ShrutiGhodake/PubSubSystem/blob/main/Notify.jpg)
+
+1. Unsubscribe
+![Alt Text](https://github.com/ShrutiGhodake/PubSubSystem/blob/main/unsubscribe.jpg)
+
