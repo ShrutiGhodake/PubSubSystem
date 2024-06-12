@@ -70,3 +70,8 @@ To run the application locally:
 3. Run the application: `python DEVDYNAMICSFLASK.py`
 4. Access the endpoints at `http://localhost:5000`
 
+## Output
+
+1. Subscribe
+![Alt Text](https://github.com/ShrutiGhodake/PubSubSystem/blob/main/subscribe.jpg)
+
