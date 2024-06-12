@@ -70,6 +70,3 @@ To run the application locally:
 3. Run the application: `python DEVDYNAMICSFLASK.py`
 4. Access the endpoints at `http://localhost:5000`
 
-## Hosting
-
-The application is hosted on Heroku and can be accessed 
