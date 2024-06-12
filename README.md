@@ -67,7 +67,7 @@ The Postman collection can be found in the repository as `PubSubSystem.postman_c
 To run the application locally:
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python app.py`
+3. Run the application: `python DEVDYNAMICSFLASK.py`
 4. Access the endpoints at `http://localhost:5000`
 
 ## Hosting
